@@ -1,1 +1,1 @@
-const char psz_vlc_changeset[] = "df2dc04";
+const char psz_vlc_changeset[] = "cacc32d";
