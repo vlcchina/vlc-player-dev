@@ -62,3 +62,10 @@ build-*
 contrib-*
 install-*
 
+# Ignore Eclipse CDT Stuff
+.project
+.cproject
+
+# Ignore Revision Stuff
+src/revision.c
+src/revision.txt
